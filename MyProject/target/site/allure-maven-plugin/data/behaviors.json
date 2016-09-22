@@ -1,0 +1,125 @@
+{
+  "features" : [ {
+    "title" : "Without feature",
+    "statistic" : {
+      "total" : 9,
+      "passed" : 9,
+      "pending" : 0,
+      "canceled" : 0,
+      "failed" : 0,
+      "broken" : 0
+    },
+    "stories" : [ {
+      "uid" : "738651cb11bd8b0f",
+      "title" : "Without story",
+      "statistic" : {
+        "total" : 9,
+        "passed" : 9,
+        "pending" : 0,
+        "canceled" : 0,
+        "failed" : 0,
+        "broken" : 0
+      },
+      "testCases" : [ {
+        "uid" : "4d6ef79aa3898bef",
+        "name" : "someTest[0]",
+        "title" : "Some test [0]",
+        "time" : {
+          "start" : 1474498336539,
+          "stop" : 1474498336547,
+          "duration" : 8
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "19b2aee266c094c",
+        "name" : "someTest[1]",
+        "title" : "Some test [1]",
+        "time" : {
+          "start" : 1474498336844,
+          "stop" : 1474498336844,
+          "duration" : 0
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "b4641eb76361d952",
+        "name" : "someTest[2]",
+        "title" : "Some test [2]",
+        "time" : {
+          "start" : 1474498336848,
+          "stop" : 1474498336848,
+          "duration" : 0
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "55ee6b7f4a728f9e",
+        "name" : "someTest[3]",
+        "title" : "Some test [3]",
+        "time" : {
+          "start" : 1474498336867,
+          "stop" : 1474498336867,
+          "duration" : 0
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "f768849fc4d91556",
+        "name" : "someTest[4]",
+        "title" : "Some test [4]",
+        "time" : {
+          "start" : 1474498336871,
+          "stop" : 1474498336871,
+          "duration" : 0
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "ad10d568428c5160",
+        "name" : "someTest[5]",
+        "title" : "Some test [5]",
+        "time" : {
+          "start" : 1474498336874,
+          "stop" : 1474498336874,
+          "duration" : 0
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "6a1d171ef06bfec7",
+        "name" : "someTest[6]",
+        "title" : "Some test [6]",
+        "time" : {
+          "start" : 1474498336880,
+          "stop" : 1474498336880,
+          "duration" : 0
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "40fd40d43f9f38cc",
+        "name" : "someTest[7]",
+        "title" : "Some test [7]",
+        "time" : {
+          "start" : 1474498336883,
+          "stop" : 1474498336883,
+          "duration" : 0
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "ccca45903adcdac",
+        "name" : "someTest[8]",
+        "title" : "Some test [8]",
+        "time" : {
+          "start" : 1474498336885,
+          "stop" : 1474498336886,
+          "duration" : 1
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      } ]
+    } ]
+  } ]
+}

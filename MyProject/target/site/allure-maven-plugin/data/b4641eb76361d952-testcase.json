@@ -1,0 +1,47 @@
+{
+  "uid" : "b4641eb76361d952",
+  "name" : "someTest[2]",
+  "title" : "Some test [2]",
+  "time" : {
+    "start" : 1474498336848,
+    "stop" : 1474498336848,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "2baaa7b89f663a7b",
+    "name" : "testPackage.MyTest",
+    "title" : "My test"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "JUnit"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "suite-name",
+    "value" : "testPackage.MyTest"
+  }, {
+    "name" : "host",
+    "value" : "home-pc"
+  }, {
+    "name" : "thread",
+    "value" : "8124@home-pc.main(1)"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  } ],
+  "parameters" : [ ]
+}
