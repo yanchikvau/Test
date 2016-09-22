@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1474536440539" stop="1474536440902" version="1.4.23.HOTFIX1" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>testPackage.MyTest</name>
+    <test-cases>
+        <test-case start="1474536440569" stop="1474536440585" status="passed">
+            <name>someTest[0]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="home-pc"/>
+                <label name="thread" value="14344@home-pc.main(1)"/>
+            </labels>
+            <parameters>
+                <parameter name="operand1" value="7" kind="environment-variable"/>
+                <parameter name="operand2" value="8" kind="environment-variable"/>
+                <parameter name="operation" value="+" kind="environment-variable"/>
+                <parameter name="result" value="15	" kind="environment-variable"/>
+            </parameters>
+        </test-case>
+        <test-case start="1474536440849" stop="1474536440849" status="passed">
+            <name>someTest[1]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="home-pc"/>
+                <label name="thread" value="14344@home-pc.main(1)"/>
+            </labels>
+            <parameters>
+                <parameter name="operand1" value="201" kind="environment-variable"/>
+                <parameter name="operand2" value="320" kind="environment-variable"/>
+                <parameter name="operation" value="+" kind="environment-variable"/>
+                <parameter name="result" value="521" kind="environment-variable"/>
+            </parameters>
+        </test-case>
+        <test-case start="1474536440853" stop="1474536440853" status="passed">
+            <name>someTest[2]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="home-pc"/>
+                <label name="thread" value="14344@home-pc.main(1)"/>
+            </labels>
+            <parameters>
+                <parameter name="operand1" value="150" kind="environment-variable"/>
+                <parameter name="operand2" value="5" kind="environment-variable"/>
+                <parameter name="operation" value="/" kind="environment-variable"/>
+                <parameter name="result" value="30" kind="environment-variable"/>
+            </parameters>
+        </test-case>
+        <test-case start="1474536440859" stop="1474536440859" status="passed">
+            <name>someTest[3]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="home-pc"/>
+                <label name="thread" value="14344@home-pc.main(1)"/>
+            </labels>
+            <parameters>
+                <parameter name="operand1" value="15" kind="environment-variable"/>
+                <parameter name="operand2" value="1" kind="environment-variable"/>
+                <parameter name="operation" value="/" kind="environment-variable"/>
+                <parameter name="result" value="15" kind="environment-variable"/>
+            </parameters>
+        </test-case>
+        <test-case start="1474536440863" stop="1474536440863" status="passed">
+            <name>someTest[4]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="home-pc"/>
+                <label name="thread" value="14344@home-pc.main(1)"/>
+            </labels>
+            <parameters>
+                <parameter name="operand1" value="12" kind="environment-variable"/>
+                <parameter name="operand2" value="0" kind="environment-variable"/>
+                <parameter name="operation" value="*" kind="environment-variable"/>
+                <parameter name="result" value="0" kind="environment-variable"/>
+            </parameters>
+        </test-case>
+        <test-case start="1474536440865" stop="1474536440866" status="passed">
+            <name>someTest[5]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="home-pc"/>
+                <label name="thread" value="14344@home-pc.main(1)"/>
+            </labels>
+            <parameters>
+                <parameter name="operand1" value="2" kind="environment-variable"/>
+                <parameter name="operand2" value="3" kind="environment-variable"/>
+                <parameter name="operation" value="*" kind="environment-variable"/>
+                <parameter name="result" value="6" kind="environment-variable"/>
+            </parameters>
+        </test-case>
+        <test-case start="1474536440868" stop="1474536440868" status="passed">
+            <name>someTest[6]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="home-pc"/>
+                <label name="thread" value="14344@home-pc.main(1)"/>
+            </labels>
+            <parameters>
+                <parameter name="operand1" value="10" kind="environment-variable"/>
+                <parameter name="operand2" value="5" kind="environment-variable"/>
+                <parameter name="operation" value="-" kind="environment-variable"/>
+                <parameter name="result" value="5" kind="environment-variable"/>
+            </parameters>
+        </test-case>
+        <test-case start="1474536440870" stop="1474536440871" status="passed">
+            <name>someTest[7]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="home-pc"/>
+                <label name="thread" value="14344@home-pc.main(1)"/>
+            </labels>
+            <parameters>
+                <parameter name="operand1" value="10" kind="environment-variable"/>
+                <parameter name="operand2" value="-5" kind="environment-variable"/>
+                <parameter name="operation" value="-" kind="environment-variable"/>
+                <parameter name="result" value="15" kind="environment-variable"/>
+            </parameters>
+        </test-case>
+        <test-case start="1474536440873" stop="1474536440873" status="passed">
+            <name>someTest[8]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="home-pc"/>
+                <label name="thread" value="14344@home-pc.main(1)"/>
+            </labels>
+            <parameters>
+                <parameter name="operand1" value="2" kind="environment-variable"/>
+                <parameter name="operand2" value="5" kind="environment-variable"/>
+                <parameter name="operation" value="-" kind="environment-variable"/>
+                <parameter name="result" value="-3" kind="environment-variable"/>
+            </parameters>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="JUnit"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

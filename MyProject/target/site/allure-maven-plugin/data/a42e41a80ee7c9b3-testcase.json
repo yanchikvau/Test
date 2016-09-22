@@ -1,10 +1,10 @@
 {
-  "uid" : "b4641eb76361d952",
+  "uid" : "a42e41a80ee7c9b3",
   "name" : "someTest[2]",
   "title" : "Some test [2]",
   "time" : {
-    "start" : 1474498336848,
-    "stop" : 1474498336848,
+    "start" : 1474536440853,
+    "stop" : 1474536440853,
     "duration" : 0
   },
   "summary" : {
@@ -17,7 +17,7 @@
   "status" : "PASSED",
   "testId" : null,
   "suite" : {
-    "uid" : "2baaa7b89f663a7b",
+    "uid" : "49e3f50f87a45d39",
     "name" : "testPackage.MyTest",
     "title" : "My test"
   },
@@ -34,14 +34,30 @@
     "name" : "suite-name",
     "value" : "testPackage.MyTest"
   }, {
+    "name" : "thread",
+    "value" : "14344@home-pc.main(1)"
+  }, {
     "name" : "host",
     "value" : "home-pc"
-  }, {
-    "name" : "thread",
-    "value" : "8124@home-pc.main(1)"
   }, {
     "name" : "suite-title",
     "value" : null
   } ],
-  "parameters" : [ ]
+  "parameters" : [ {
+    "name" : "operand1",
+    "value" : "150",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "operand2",
+    "value" : "5",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "operation",
+    "value" : "/",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "result",
+    "value" : "30",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  } ]
 }

@@ -1,0 +1,63 @@
+{
+  "uid" : "8d5750f9aeff36f7",
+  "name" : "someTest[0]",
+  "title" : "Some test [0]",
+  "time" : {
+    "start" : 1474536440569,
+    "stop" : 1474536440585,
+    "duration" : 16
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "49e3f50f87a45d39",
+    "name" : "testPackage.MyTest",
+    "title" : "My test"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "JUnit"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "suite-name",
+    "value" : "testPackage.MyTest"
+  }, {
+    "name" : "thread",
+    "value" : "14344@home-pc.main(1)"
+  }, {
+    "name" : "host",
+    "value" : "home-pc"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  } ],
+  "parameters" : [ {
+    "name" : "operand1",
+    "value" : "7",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "operand2",
+    "value" : "8",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "operation",
+    "value" : "+",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "result",
+    "value" : "15 ",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  } ]
+}

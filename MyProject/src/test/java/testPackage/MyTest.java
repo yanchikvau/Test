@@ -15,12 +15,18 @@ import org.junit.runner.RunWith;
 import org.junit.runners.Parameterized;
 import org.junit.runners.Parameterized.Parameters;
 
+import ru.yandex.qatools.allure.annotations.Parameter;
+
 
 @RunWith(Parameterized.class)
 public class MyTest {
+	@Parameter
 	private String operand1;
+	@Parameter
 	private String operand2;
+	@Parameter
 	private String operation;
+	@Parameter
 	private String result;
 	@Test
 	public void someTest(){
